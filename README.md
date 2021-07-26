@@ -5,6 +5,8 @@ This visualization uses mobile GPS data pulled from 378 primary airports in the 
 
 The visualization includes two animated components, a map and a line graph. The map includes bubbles for the top 100 airports by enplanements (sourced from BTS) within the studied timeframe. The size and color of the bubbles are animated based on weekly enplanement estimates by airport generated using mobile GPS traffic introduced above scaled to the level of enplanements using monthly BTS enplanement data. The line graph shows total BTS enplanements which has been disaggregated to a weekly level with GPS traffic.
 
+The Python code used to create the visualization loaded here as a .html webpage has been attached to this project as a Juypter Notebook (.ipynb) file. 
+
 
 **GPS Data Collection:**
 
